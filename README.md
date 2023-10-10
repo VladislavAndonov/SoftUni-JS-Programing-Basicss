@@ -1,1 +1,1 @@
-# SoftUni-JS-Programing-Basicss
+# SoftUni-JS-Programing-Basics
